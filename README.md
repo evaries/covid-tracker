@@ -1,6 +1,4 @@
-For running project in local machine follow instruction below:
-
-## Available Scripts
+For running project on local machine follow instruction below:
 
 Copy/clone project in local pc and install all dependency
 (Delete package-lock.json before)
